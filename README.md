@@ -1,0 +1,1 @@
+# paletteer-Hundreds-of-color-palettes-in-R
